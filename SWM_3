@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vikash Chopra |  CV</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      background: #f8fbff;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+     
+      background: #003366;
+      color: white;
+      padding: 2.5rem 2rem;
+      text-align: center;
+      border-bottom: 5px solid #fdb813;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      margin-top: 0.5rem;
+    }
+    
+
+    nav {
+      position: sticky;
+      top: 0;
+      background: #003366;
+      color: white;
+      display: flex;
+      padding: 1rem;
+      justify-content: center;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+    }
+
+    .nav-item {
+      position: relative;
+      margin: 0 1rem;
+    }
+
+    .nav-link {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      cursor: pointer;
+    }
+.dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  text-align: Left;
+  background: #00509e;
+  padding: 0.5rem 0;
+  flex-direction: column;
+  min-width: 180px;
+  border-radius: 4px;
+  max-height: 400px;          
+  overflow-y: auto;          
+  z-index: 1000;            
+}
+
+
+    .dropdown a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 0.5rem 1rem;
+      display: block;
+    }
+
+    .dropdown a:hover {
+      background-color: #2563eb;
+    }
+
+    .nav-item:hover .dropdown,
+    .nav-item:focus-within .dropdown {
+      display: flex;
+    }
+
+nav {
+      position: sticky;
+      top: 0;
+      background: #00509e;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 2rem;
+    }
+    section {
+      margin-bottom: 3rem;
+    }
+    h2 {
+      color: #003366;
+      border-left: 6px solid #fdb813;
+      padding-left: 1rem;
+      font-size: 1.6rem;
+    }
+    .card {
+      background: white;
+      padding: 1.2rem 1.5rem;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+      border-left: 4px solid #007acc;
+    }
+      .footer {
+
+      bottom: 0;
+      width: 100%;
+      background: #003366;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      opacity: 1;
+      transition: opacity 1s ease-in-out;
+      pointer-events: none;
+    }
+
+
+    }
+  </style>
+</head>
+<body>
+  <header>
+
+
+    <h1> <a href="https://linkedin.com/in/vikash-chopra92" target="_blank" style="color: white;"> 
+
+ Vikash Chopra 
+
+</a></h1>
+
+
+    <p>Urban Infrastructure Planner 
+
+| <a href="mailto:vikashchopra.official@gmail.com" style="color:white;">vikashchopra.official@gmail.com</a> 
+
+|+91-8059912526 
+
+| Mumbai 
+
+
+  </header>
+  <nav>
+<a href="#top">Home</a> 
+
+ <a href ="#summary"> Summary</a>    
+
+
+<div class="nav-item">
+
+ <a href ="#experience"> Experience</a>  
+      <div class="dropdown">
+  
+        <a href="#Org 1">TUSPL</a>
+        <a href="#Org 2">MaRS</a>
+        <a href="#Org 3">AIILSG</a>
+        <a href="#Org 4">VIZENT</a>
+      </div> 
+</div>
+
+<div class="nav-item">
+
+ <a href ="#projects"> Projects</a> 
+      <div class="dropdown">
+
+        <a href="#project 1">1. IMSWM Project_CIDCO</a>
+        <a href="#project 2">2. DEA Empanelled Transaction Advisory</a>
+        <a href="#project 3">3. SWM Project Konkan (Maharashtra)</a>
+        <a href="#project 4">4. SWM Project 3 Divisions (MP)</a>
+        <a href="#project 5">5. SLB-PAS Module Gujarat</a>
+        <a href="#project 6">6. Underground Drainage Project Gujarat</a>
+        <a href="#project 7">7. City Street Vending Plan Gujarat</a>
+        <a href="#project 8">8. TCGL Project Gujarat</a>
+      </div>
+</div>
+
+    <a href="#education">Education</a> 
+
+    <a href="#certifications">Certifications</a>   
+  </nav>
+
+
+  <div class="container">
+    <section id="summary">
+   <br><br>   <h2>
+
+Professional Summary
+
+</h2>
+      <div class="card">
+
+I am an experienced Urban Infrastructure Planner with a Master's degree in Environmental Planning. My professional career includes managing significant transaction advisory & PMC-enabled solid waste management projects across India. I excel at DPRs and RFPs, ensuring sustainable urban planning. My expertise includes project management, stakeholder engagement, and innovative problem-solving in urban planning disciplines.
+
+</div>
+
+</section>
+<section id="experience"><br><br>
+ <h2>
+
+Work Experience (4 years 7 months)
+
+<br>
+<section id="Org 1"> 
+</h2>
+      
+<div class="card"><strong> 
+
+<a href="https://tuspl.com/" target="blank" style="color: #222;">
+
+Tandon Urban Solutions Pvt. Ltd.
+
+</a> 
+
+</strong> – Infrastructure Planner (Urban Planning)
+
+<br><em>
+
+Apr. 2024 – Present, Mumbai
+
+</em><strong><br>
+
+Key Activities:
+
+</strong><br> 
+
+- Engaged DEA-approved Transaction Advisor for SWM consultancy in CIDCO
+
+</em><br> 
+
+- Planned integrated SWM facility at CIDCO (WtE, MRF, Bio-char, LTP, etc.) under DBFOT-PPP model at Taloja MIDC
+
+</div>
+
+
+<section id="Org 2"> <br><br>
+<div class="card"><strong>
+
+<a href="https://www.marsconsultancy.com/" target="blank" style="color: #222;"> MaRS Planning and Engineering Services Pvt. Ltd.</a> 
+
+     </strong> – Project Manager (Planning)<br><em>Nov. 2022 – Feb. 2024, Ahmedabad</em><strong><br>Key Activities:</strong><br> - Prepared DPRs and RFPs for MSWM plans covering 46 ULBs in Maharashtra, including legacy waste assessment, fresh waste processing, and SLF design, as per CPHEEO and SBM guidelines</em><br> - Prepared DPRs and RFPs for MSWM plans for 190 ULBs in Madhya Pradesh, covering waste quantification, SLF planning, and PMC services under CPHEEO norms and SBM framework</div>
+
+
+<section id="Org 3"> <br><br>
+<div class="card"><strong>
+
+<a href="https://www.aiilsg.org/" target="blank" style="color: #222;"> All India Institute of Local Self Government</a> 
+
+    </strong> – Project Associate (Urban Planner)<br><em>Mar. 2019 – Sep. 2020, Ahmedabad</em><strong><br>Key Activities:</strong><br> - Implemented PAS benchmarking for water supply and sanitation grants in 170 ULBs across Gujarat</em><br> - Prepared DPR for underground drainage in Mangrol Town, Junagadh District</em><br> - Developed City Street Vending Plans for 30 ULBs as per GOI and DAY-NULM guidelines</em><br> - Provided monitoring consultancy via mobile and web platforms for sanitation services at key tourist sites in Gujarat</div>
+
+
+<section id="Org 4"> <br><br>
+<div class="card"><strong>
+
+<a href="https://vizent.co/" target="blank" style="color: #222;"> Vizent Solutions Pvt. Ltd.</a> 
+
+</strong> – Junior Geospatial CG Artist<br><em>Jun. 2018 – Jan. 2019, Gurugram</em><strong><br>Key Activities:</strong><br> - Consultancy Services for Planning and preparation of 3D aesthetical Model & Design of various golf courses in India and Abroad</div>
+
+
+    </section>
+    <section id="projects">
+
+
+      <br><br> <h2>
+
+Key Projects</h2>
+
+    <section id="project 1"> <br><br>
+      <div class="card"><strong>
+
+
+1.	Name of Project / Assignment: Development of Integrated Municipal Solid Waste Management facilities such as WtE, MRF, Bio-char, Sludge/SWM drying plant, Organic waste processing digester, LTP etc. at CIDCO’s proposed SWM facility at Plot No. SWM-1 at village Chal, near Taloja MIDC based on DBFOT type Public Private Partnership (PPP) model <br> <br> </strong> <strong> Location: </strong> Navi Mumbai | <strong>Client: </strong> 
+
+<a href="https://cidco.maharashtra.gov.in/#gsc.tab=0" target="_blank" style="color: Black;"> 
+
+CIDCO
+
+</a>
+
+ <br> <strong>Year: </strong>April 2024–Present | <strong>Positions held: </strong>Project Coordinator (SWM Expert) <strong><br><br>Main project features: </strong>Transaction Advisory and PMC services for Integrated SWM in CIDCO <br><strong>A)	Coordination bridge between client and PMC</strong><br> - Acted as liaison between client and PMC team.<br> - Assessed project scope, deliverables, and resource needs.<br> - Collected data from CIDCO departments; identified land and financial requirements.<br> - Conducted population and waste generation projections (GPCD).<br> - Prepared capacity forecasts and daily mass balance for SWM components.<br><strong>B) Preparation of Detailed Project Report (DPR)</strong><br> - Visited sites to assess existing systems and gather primary data<br> - Developed conceptual layouts and process schemes<br> - Supported ULBs in obtaining approvals from authorities<br><strong>C) RFP & Tender Preparation</strong><br> - Drafted technical specs and BoQs as per SOR norms<br> - Designed conceptual layouts; led stakeholder consultations<br> - Managed bidding process and supported concession agreement finalization</div>
+
+
+    </section>
+
+    <section id="project 2"><br> <br> 
+      <div class="card"><strong>
+
+
+2.	Name of Project / Assignment: Engagement of DEA Empanelled Transaction Advisor for providing PMC Services related to Solid Waste Management in CIDCO, Panvel Municipal Corporation & Uran Municipal Council in the State of Maharashtra<br> <br>  </strong> <strong> Location: </strong> Navi Mumbai | <strong>Client: </strong> 
+
+<a href="https://cidco.maharashtra.gov.in/#gsc.tab=0" target="_blank" style="color: Black;"> 
+
+CIDCO
+
+</a>
+
+  <br> <strong>
+
+Year: </strong>Mar. 2023 – Feb. 2024 | <strong>
+
+Positions held: </strong>Project Coordinator (SWM Expert) <strong><br><br>
+
+Main project features: 
+
+</strong>
+
+Preparation of Detailed Project Report (DPR) and Request for Proposal (RFP) Documents for Municipal Solid Waste Management Plan 
+
+<strong><br><br>
+
+Activities performed:  
+
+<br></strong>
+
+A)	Preparation of Detailed Project Report (DPR)</strong><br> 
+
+- Project site visits to monitor and review the existing Solid Waste Management practices from collection & transportation to its scientifically treatment, remediation of dumpsite through bio-mining/ scientific disposal and capping
+<br> 
+
+- Assess the activities performed by contractors, i.e., daily waste collection records, biomining, processing & disposal and review Monthly Progress report <br> 
+
+- Issuing notice to the contractors where breach of the tender conditions found</div>
+
+
+    </section>
+
+    <section id="project 3"><br> <br> 
+      <div class="card"><strong>
+
+3.	Name of Project / Assignment: Preparation of Detailed Project Report (DPR) and Request for Proposal (RFP) Documents for Municipal Solid Waste Management Plan Consisting Legacy Waste Quantification, Fresh Waste Processing and Sanitary Landfill Facility (SLF) Designing and providing PMC Services to 46 ULBs in the State of Maharashtra, referring CPHEEO Guidelines under Swachchh Bharat Mission, GOI
+
+<br> <br> </strong> <strong> 
+
+Location: </strong> 46 Municipal Bodies in Konkan Division of State of Maharashtra 
+
+<br> <strong>
+
+Client: </strong> 46 Municipal Bodies in Konkan Division of State of Maharashtra 
+
+<br> <strong>
+
+Year: </strong>Mar. 2023 – Feb. 2024 
+<br> <strong>
+
+Positions held: </strong>Project Manager and Lead - Konkan Division (SWM Expert) <strong><br><br>
+
+Main project features: </strong> 
+
+Preparation of Detailed Project Report (DPR) and Request for Proposal (RFP) Documents for Municipal Solid Waste Management Plan 
+
+<br><br><strong>
+
+Activities Performed:
+
+</strong><br><strong>
+
+A)	Providing PMC Services
+
+</strong><br> 
+
+- Conducted transaction advisory and site visits to assess SWM practices including waste collection, treatment, and dumpsite remediation<br> 
+
+- Collected secondary and primary data, including financials, for infrastructure and capacity assessment<br> 
+
+- Analyzed waste generation (GPCD), characterization, and total daily quantity<br> - Prepared conceptual layouts, cost estimates, and DPR components<br> 
+
+- Drafted BOQs, technical specs, and estimates as per SOR<br> 
+
+- Facilitated stakeholder consultations and supported ULBs in securing approvals
+</div>
+
+
+    </section>
+
+    <section id="project 4"><br> <br> 
+      <div class="card"><strong>
+
+4.	Name of Project / Assignment: Preparation of Detailed Project Report (DPR) and Request for Proposal (RFP) Documents for Municipal Solid Waste Management Plan Consisting Legacy Waste Quantification, Fresh Waste Processing and Sanitary Landfill Facility (SLF) Designing and providing PMC Services to 190 ULBs in the State of Madhya Pradesh, referring CPHEEO Guidelines under Swachchh Bharat Mission, GOI
+
+<br> <br> </strong> <strong> 
+
+Location: </strong> 190 ULBs (3 divisions) in the State of Madhya Pradesh 
+
+<br> <strong>
+
+Client: </strong> 190 ULBs (3 divisions) in the State of Madhya Pradesh 
+
+<br> <strong>
+
+Year: </strong>: Nov. 2022 – Feb. 2024 
+<br> <strong>
+
+Positions held: </strong>Project Manager and Lead - Bhopal and Gwalior Division (SWM Expert)
+<strong><br><br>
+
+Main project features: </strong>Preparation of Detailed Project Report (DPR) and Request for proposal (RFP) Documents for Municipal Solid Waste Management Plan
+<br><br><strong>
+
+Activities Performed:
+
+</strong><br><strong>
+
+A) Preparation of Detailed Project Report (DPR)</strong><br> 
+
+- Visited ULBs and sites to assess existing SWM practices, including waste collection, treatment, and dumpsite remediation<br> 
+
+- Conducted primary surveys and gathered secondary data for planning<br> 
+
+- Analyzed ULB budgets and financial capacity<br> 
+
+- Measured waste generation (GPCD), performed waste characterization, and estimated total daily waste.<br> 
+
+- Identified infrastructure gaps and prepared conceptual layouts with preliminary cost estimates
+<br> 
+
+- Drafted technical specs, design sketches, BOQs, and estimates as per SOR
+<br> 
+
+- Supported ULBs in obtaining project approvals
+</div>
+
+
+    </section>
+
+    <section id="project 5"><br> <br> 
+      <div class="card"><strong>
+
+5.	Name of Project / Assignment: Working for implementing the Service Level Benchmarks - Performance Assessment System (PAS) module for Urban Water Supply & Sanitation related financial modelling of grants in 170 Urban local bodies of the state of Gujarat
+
+<br> <br> </strong> <strong> 
+
+Location: </strong> 170 Urban local bodies of the state of Gujarat. <br> <strong>
+
+Client: </strong> C-WAS (CEPT), Ahmedabad <br> <strong>
+
+Year: </strong>Jun. 2019 – Sep. 2019 <br> <strong>
+
+Positions held: </strong>Project Associate (Urban Planner) <strong><br><br>
+
+Main project features: 
+
+<br></strong> 
+
+- The project deals with Performance Assessment of urban local bodies for the Gujarat and Jharkhand. <br></strong> 
+
+- Performance assessment helps the ULB to identify areas of well performing and poorly performing areas in the three sectors.
+<br></strong> 
+
+- A set of local action indicators are also developed to assist the ULB in keying down the local ULB level actions that need to be undertaken to achieve reforms/ goals.
+
+ <br><br><strong>
+
+Activities Performed:</strong><br> 
+
+- Assessed water supply, wastewater, and solid waste collection systems in ULBs.
+
+</strong><br> 
+
+- Used KPIs to help ULBs set goals and identify required reforms.
+
+</strong><br> 
+
+- Supported ULBs in online data entry as per state-approved formats.
+
+</strong><br> 
+
+- Advised on wastewater and social service strategies for compliance and equity.
+
+</strong><br> 
+
+- Facilitated workshops to gather data, identify gaps, and define improvement strategies.
+</div>
+
+
+    </section>
+
+    <section id="project 6"><br> <br> 
+      <div class="card"><strong>
+
+6.	Name of Project / Assignment: Consultancy services for Preparation of Detailed Project report for Underground Drainage Project in Mangrol Town, Junagadh District, Gujarat.
+
+<br> <br> </strong> <strong> 
+
+Location: </strong> Mangrol Town, Junagadh District, Gujarat <br> <strong>
+
+Client: </strong> Gujarat Urban Development Mission (GUDM) <br>  <strong>
+
+Year: </strong>Mar. 2019 – Mar. 2020 <br> <strong>
+
+Positions held: </strong>Project Associate (Urban Planner)<strong><br><br>
+
+Main project features: </strong>
+
+Preparation of Detailed Project report for Underground Drainage Project in Mangrol Town 
+<br><br><strong>
+
+Activities Performed:
+
+</strong><br> 
+
+- Collected and analyzed spatial data to support gap analysis and strategy formulation.
+
+</strong><br> 
+
+- Prepared base, layout, and macro-level maps across town, district, and state scales.
+
+</strong><br> 
+
+- Assessed existing water and wastewater systems and supported geo-surveys.
+
+</strong><br> - Proposed wastewater strategies in line with environmental and regulatory norms.
+
+</strong><br> 
+
+- Participated in workshops with state officials and facilitated stakeholder consultations for data collection and issue resolution.
+
+</div>
+
+
+    </section>
+
+    <section id="project 7"><br> <br> 
+      <div class="card"><strong>
+
+7.	Name of Project / Assignment: Preparation of City Street Vending Plan for ‘A’ Class ULBs and District Headquarters (30 Municipalities) as per The Street Vendor Act-2014, GOI, DAY-NULM, GOG and GULM guidelines.
+
+<br> <br> </strong> <strong> 
+
+Location: </strong> 30 Municipalities and District Headquarters, Gujarat <br> <strong>
+
+Client: </strong> Gujarat Urban Livelihood Mission (GULM)  <br> <strong>
+
+Year: </strong>Sep. 2019 – Sep. 2020 <br> <strong>
+
+Positions held: </strong>Project Associate (Urban Planner) <strong><br><br>
+
+Main project features: 
+
+<BR></strong> 
+
+- DAY-NULM promotes sustainable development for the urban informal workforce, with a focus on street vendors.
+
+<BR></strong> 
+
+- Street vendors make up ~2.5% of city populations; women form a significant share.
+
+<BR></strong> 
+
+- Street vending supports urban poor through self-employment and affordable services.
+
+<BR></strong> 
+
+- Supported GULM in preparing City Street Vending Plans (CSVP) for 30 cities in Gujarat.
+
+<br><br><strong>
+
+Activities Performed:
+
+</strong><br> 
+
+- Conducted city-level mapping of street vendors.
+
+</strong><br> 
+
+- Analyzed vending trade profiles and spatial distribution.
+
+</strong><br> 
+
+- Identified and zoned vending areas (green, amber, red) with authorities.
+
+</strong><br> 
+
+- Assessed holding capacity and space allotment strategies.
+
+</strong><br> 
+
+- Proposed solutions to key vending challenges and identified potential PPP-based vending zones.
+
+</strong><br> 
+
+- Prepared the Detailed Implementation Plan (DIP).
+</div>
+
+
+    </section>
+
+    <section id="project 8"><br> <br> 
+      <div class="card"><strong>
+
+8.	Name of Project / Assignment: Providing Consultancy Services for Monitoring through Mobile based application and Web based Data management system for “Cleaning and sanitation related services” across various tourist destinations in State of Gujarat
+
+<br> <br> </strong> <strong> 
+
+Location: </strong> 24 Tourist Sites in Gujarat State 
+
+<br> <strong>
+
+Client: </strong> Tourist Corporation Gujarat Limited (TCGL), GOG undertaking 
+
+<br> <strong>
+
+Year: </strong>Mar. 2019 – Jul. 2020
+
+<br> <strong>
+
+Positions held: </strong>Project Associate, GIS Team Lead 
+
+<strong><br><br>
+
+Main project features: 
+
+<br></strong> 
+
+- Assisted TCGL in project management and execution under Tourism Master Plans, including third-party inspections, reporting, and monitoring of sanitation and IEC activities
+
+<br></strong> 
+
+- Evaluated and presented feasibility of SMART-MS (Swachhta Mission) using GIS-based real-time monitoring at tourism sites<br><br><strong>
+
+Activities Performed:
+
+</strong><br> 
+
+- Conducted site visits, stakeholder consultations, and spatial data collection.
+
+</strong><br> 
+
+- Assisted in uploading spatial/attribute data to the SMART-MS platform.
+
+</strong><br> 
+
+- Integrated daily reporting with GIS and deployed it online.
+
+</strong><br> 
+
+
+- Proposed single-user policy to prevent false reporting.
+
+</strong><br> 
+
+- Presented project insights to QCI on behalf of TCGL.
+
+</div>
+
+
+    </section>
+
+    <section id="education">
+<br><br>
+      <h2>
+
+Education</h2>
+
+      <div class="card"><strong>
+
+Master of Environmental Planning
+
+</strong><br>
+
+
+SPA, New Delhi | (2020–2022)
+
+<br> 
+
+CGPA: 8.08
+
+<br><br><strong> 
+
+- Thesis Topic: </strong>Environmental Planning Post graduation level Thesis with Topic of 
+
+<strong><em> 
+
+“Watershed
+Management Plan of Najafgarh Drain – A case study of NCT of Delhi”,
+
+</em></strong>  
+
+and worked on mitigating the impact of poor Solid waste Management and untreated Industrial Effluents on Natural Drainage System and Yamuna River.
+
+
+</div>
+
+      <div class="card"><strong>
+
+Bachelor of Planning
+
+</strong><br>
+
+MANIT, Bhopal | (2014–2018)
+
+<br>CGPA: 6.88 
+
+<br><br><strong> 
+
+- Thesis Topic: 
+
+</strong>
+
+Completed Urban Planning Graduation Level Thesis with the Topic of 
+
+<strong><em>
+
+“Plan to Conserve Green Cover in Bhopal City”
+
+</em></strong> 
+
+and earmarked the significance of ArcGIS Based Land suitability analysis in Development Plans
+
+
+</div>
+
+
+
+
+    </section>
+    <section id="certifications">
+      <h2>
+
+Certifications</h2>
+      <div class="card">
+
+        <strong>
+
+- ArcGIS (B+),</strong> National Centre for Human Settlements and Environment, Bhopal (2016)<br>
+        
+
+<strong>
+
+
+- AutoCAD (A+),</strong> Hartron Institute, Hisar (2013)<br>
+        
+
+<strong>
+
+- Microsoft Excel (A+),</strong> Bizzwizard - Online Training Platform (2020)
+      
+
+</div>
+
+
+    </section>
+  </div>
+  <div class="footer">
+
+    &copy; 2025 Vikash Chopra | Personal Website | Professionally designed Urban Planner Portfolio.
+  </div>
+ 
+
+
+
+
+</body>
+</html>
